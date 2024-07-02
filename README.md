@@ -1,5 +1,5 @@
 # Bike-Shop-Dashboard-PostgreSQL-Tableau
-
+![](Images/Bikeshop_Dashboard.PNG)
 
 
 ## Business Request & User Stories

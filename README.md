@@ -27,6 +27,9 @@ https://github.com/Kim-ngoc2710/Portfolio
 https://public.tableau.com/app/profile/kim.ngoc.pham2307/viz/BikeStoreDashboard_17198522184100/Dashboard1
 
 ## Summary of Findings
+**Best-selling category : Mountain Bike**
+
+**Best-selling brand : Trek**
 
 **We can observe trends of growth and decline in sales over the three years from 2016 to 2018.**
 

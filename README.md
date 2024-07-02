@@ -32,7 +32,7 @@ https://public.tableau.com/app/profile/kim.ngoc.pham2307/viz/BikeStoreDashboard_
 
 **2018 witnessed a significant drop in revenue.**
 
-![](Images/2018_Revenues.PNG)
+<img src="Images/2018_Revenues.PNG" width="100">
 
 - Starting from June 2018, the revenue plummeted to just 1/20 of the average annual revenue. Notably, the revenue in June was only $210.
 - From June onwards, the number of orders fluctuated between 1 to 5 orders per month. Some stores in various cities had almost no orders throughout the entire month.

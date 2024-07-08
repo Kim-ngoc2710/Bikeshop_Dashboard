@@ -21,7 +21,7 @@ They want to get a dashboard overview of sales over 3 year and a detailed overvi
 **Data** - Sales Data of Bike Shop from the year 2016 to 2018.
 
 **Data Cleaning & Analysis** - PostgreSQL
-https://github.com/Kim-ngoc2710/Portfolio
+https://github.com/Kim-ngoc2710/Bikeshop_Dashboard?tab=readme-ov-file
 
 **Data Visualization** - Tableau Desktop
 https://public.tableau.com/app/profile/kim.ngoc.pham2307/viz/BikeStoreDashboard_17198522184100/Dashboard1
